@@ -1,0 +1,23 @@
+Input pl/0 file?   y
+0 var x;
+
+1 
+
+1 begin
+
+2     read(x);
+
+4     if x > 0 then
+
+7         begin
+
+8             write(1)
+
+10         end
+
+11     else
+
+****        !17
+****        !8
+12         begin
+
