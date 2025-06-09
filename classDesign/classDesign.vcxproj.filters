@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="F:\浏览器下载\pl0_extended.c">
+    <ClCompile Include="mian.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="mian.cpp">
+    <ClCompile Include="pl0_extended.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="F:\浏览器下载\pl0_extended.h">
+    <ClInclude Include="pl0_extended.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

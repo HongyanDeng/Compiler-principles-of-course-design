@@ -1,0 +1,21 @@
+Input pl/0 file?   y
+0 var x;
+
+1 
+
+1 begin
+
+2     x := 1;
+
+4     if x = 1 then
+
+7         x := 2
+
+9     else
+
+****        !17
+****        !8
+11         x := 3
+
+11 end.
+

@@ -1,0 +1,11 @@
+var x;
+
+begin
+    x := 0;
+    do
+    begin
+        x := x + 1;
+        write(x)
+    end
+    until x = 3
+end.
